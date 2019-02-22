@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Learning Objectives
+title: Learning objectives
 ---
