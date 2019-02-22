@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome..
-subtitle: ..to FourthSemester
+title: Welcome
+subtitle: to FourthSemester
 use-site-title: true
 ---
 
