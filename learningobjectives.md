@@ -1,1 +1,4 @@
-Works?
+---
+layout: page
+title: Learning Objectives
+---
