@@ -24,8 +24,8 @@ description: Portfolio for 4th semester of AP Computer Science
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Objectives : "learningobjectives"
-  Plan: "learningplan"
+  Learning : "learning"
+  Plan: "plan"
   About Me: "aboutme"
   Resources: "resources"
 
