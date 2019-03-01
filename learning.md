@@ -13,8 +13,8 @@ My learning objectives are the following:
 
 ### Learning objectives
 
-Knowledge
+Knowledge *(describe/explain/illustrate/identify...)*
 
-Skills
+Skills *(apply/test/analyze/compare...)*
 
-Competences
+Competences *(combine/change/discuss/control...)*
