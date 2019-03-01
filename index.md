@@ -10,5 +10,6 @@ This site will document my fourth semester of AP Computer Science. My group and 
 An overview of the different pages:
 - Blog: weekly summary of work progress
 - Learning objectives:
+- Learning plan:
 - About me: introduction of the author
 - Resources: a list of resources
