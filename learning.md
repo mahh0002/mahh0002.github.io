@@ -12,3 +12,9 @@ My learning objectives are the following:
 - 5 ECTS: Web development w. new frameworks in ASP.NET Core MVC
 
 ### Learning objectives
+
+Knowledge
+
+Skills
+
+Competences
