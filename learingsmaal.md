@@ -5,11 +5,12 @@ title: Læringsmål
 
 ### Læringsområder/emner
 
-My learning objectives are the following:
+Mine læringsområder/emner er følgende:
 
-- 10 ECTS: Microservices
-- 10 ECTS: Clean architecture
-- 5 ECTS: Web development w. new frameworks in ASP.NET Core MVC
+- 10 ECTS: Distributed computing
+- 5 ECTS: IT security
+- 5 ECTS: IT governance
+- 5 ECTS: Technical writing
 
 ### Læringsmål
 
