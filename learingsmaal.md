@@ -3,7 +3,7 @@ layout: page
 title: Læringsmål
 ---
 
-### Emner
+### Læringsområder/emner
 
 My learning objectives are the following:
 
