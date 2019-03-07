@@ -16,6 +16,12 @@ Mine læringsområder/emner er følgende:
 
 #### Distributed computing
 
+#### IT security
+
+#### IT governance
+
+#### Technical writing
+
 Knowledge *(describe/explain/illustrate/identify...)*
 
 - I want to be able to explain the underlying technology for all three learning areas
