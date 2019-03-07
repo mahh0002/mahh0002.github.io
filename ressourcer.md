@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Resources
+title: Ressourcer
 ---
 
-My project group consists of a total of five people (including me). Check their portfolios out:
+Udover mig selv består min projektgruppe af fire andre medlemmer. Du kan følge deres semester/porteføljer her:
 
 - Jesper: [enmango.dk](https://enmango.dk)
 - Julian: [codeiwrote.dk](https://codeiwrote.dk)
