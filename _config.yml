@@ -17,17 +17,17 @@ baseurl: ""
 title: FourthSemester
 
 # Short description of your site
-description: Portfolio for 4th semester of AP Computer Science
+description: Portefølje for fjerde semester af datamatikeruddannelsen
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Learning : "learning"
-  Plan: "plan"
-  About Me: "aboutme"
-  Resources: "resources"
+  Læringsmål : "learning"
+  Læringsplan: "plan"
+  Om mig: "aboutme"
+  Ressourcer: "resources"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
