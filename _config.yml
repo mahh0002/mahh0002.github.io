@@ -24,8 +24,8 @@ description: Portefølje for fjerde semester af datamatikeruddannelsen
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Læringsmål : "learning"
-  Læringsplan: "plan"
+  Læringsmål : "learingsmaal"
+  Læringsplan: "laeringsplan"
   Om mig: "aboutme"
   Ressourcer: "resources"
 
