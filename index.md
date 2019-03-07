@@ -9,7 +9,7 @@ Denne side har til formål at dokumentere mit fjerde semester på datamatikerudd
 
 Et overblik over de forskellige sider:
 - Blog: opsamling på den forgangne uge
-- Læringsmål:
-- Læringsplan:
+- Læringsmål: mine emner samt specifikke læringsmål inden for hvert emne
+- Læringsplan: min plan for aktiviteter og læring ift. at indfri læringsmål
 - Om mig: kort resumé af mig
 - Ressourcer: en liste over ressourcer, herunder henvisning til mine gruppemedlemmer
