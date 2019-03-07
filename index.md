@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Welcome
-subtitle: to FourthSemester
+title: Velkommen
+subtitle: til FourthSemester
 use-site-title: true
 ---
 
-This site will document my fourth semester of AP Computer Science. My group and I will be doing a project with an Odense-based company, where we work on an application aimed at user-to-user translation.
+Denne side har til formål at dokumentere mit fjerde semester på datamatikeruddannelsen. Min gruppe og jeg arbejder i øjeblikket på et projekt med en virksomhed baseret i Odense, hvor vi arbejder på at udvikle en applikation til oversættelse. Udover dette har vi hver især individuelle læringsmål, som vi skal fordybe os i.
 
-An overview of the different pages:
-- Blog: weekly summary of work progress
-- Learning objectives:
-- Learning plan:
-- About me: introduction of the author
-- Resources: a list of resources
+Et overblik over de forskellige sider:
+- Blog: opsamling på den forgangne uge
+- Læringsmål:
+- Læringsplan:
+- Om mig: kort resumé af mig
+- Ressourcer: en liste over ressourcer, herunder henvisning til mine gruppemedlemmer
