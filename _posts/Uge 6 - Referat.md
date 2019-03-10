@@ -1,0 +1,12 @@
+--
+layout: post
+title: Uge 6 - Referat
+--
+
+Uge 6 var første uge med undervisning efter at januar blev brugt på eksamenslæsning og ferie. Hermed en kort opsamling af hvad ugen blev brugt på.
+
+Ugen bød på et par spændende indslag om mandagen og fredagen. Mandag havde vi besøg af en medarbejder ved virksomheden Umbraco, hvor vi blev Umbraco Fundamentals-certificeret. Om fredagen havde vi besøg af en kommunikationsrådgiver fra Analog, som holdte et oplæg omkring jobsøgning, networking mm.
+
+Tirsdag, onsdag og torsdag brugte vi på at planlægge og sætte rammerne for fjerde semester. Vi udformede bl.a. individuelle læringsmål og læringsplan, skitserer projektplan, fordele ECTS-point og forventede arbejdstimer ift. læringsmål, inddeling i ERFA-grupper mm. Herudover havde vi en masse forskellige læringsaktiviteter og refleksioner i fællesskab samt opstart på praktiksøgning og lignende, som skal finde sted femte semester.
+
+Uge 6 blev altså brut på de praktiske opgaver, som var i forbindelse med opstarten af det nye semester.
