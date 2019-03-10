@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: Uge 6 - Referat
---
+---
 
 Uge 6 var første uge med undervisning efter at januar blev brugt på eksamenslæsning og ferie. Hermed en kort opsamling af hvad ugen blev brugt på.
 
