@@ -8,8 +8,8 @@ Udover mig selv består min projektgruppe af fire andre medlemmer. Du kan følge
 - Jesper: [enmango.dk](https://enmango.dk)
 - Julian: [codeiwrote.net](https://codeiwrote.net)
 - Lars: [larzraz.github.io](https://larzraz.github.io)
-- Lasse: TBA
+- Lasse: [lass6268.github.io/](https://lass6268.github.io/)
 
 Bøger:
-- Clean Code af Robert C. Martin
 - Effective Java af Joshua Bloch
+- Clean Code af Robert C. Martin
