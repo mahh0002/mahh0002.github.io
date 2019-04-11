@@ -9,3 +9,7 @@ Udover mig selv består min projektgruppe af fire andre medlemmer. Du kan følge
 - Julian: [codeiwrote.net](https://codeiwrote.net)
 - Lars: [larzraz.github.io](https://larzraz.github.io)
 - Lasse: TBA
+
+Bøger:
+- Clean Code af Robert C. Martin
+- Effective Java af Joshua Bloch
