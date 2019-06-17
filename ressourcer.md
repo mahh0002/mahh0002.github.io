@@ -11,5 +11,5 @@ Udover mig selv består min projektgruppe af fire andre medlemmer. Du kan følge
 - Lasse: [lass6268.github.io](https://lass6268.github.io)
 
 Bøger:
-- Effective Java af Joshua Bloch
 - Clean Code af Robert C. Martin
+- Building Java Programs - A Back to Basics Approach (Fourth Edition) af Stuart Reges og Marty Stepp
