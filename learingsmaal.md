@@ -9,7 +9,7 @@ Mine læringsområder/emner er følgende:
 
 - Java (10 ECTS)
 - Clean Code (10 ECTS)
-- Diverse og tidligere emner (5 ECTS)
+- Diverse og tidligere emner mm. (5 ECTS)
 
 ### Læringsmål
 
