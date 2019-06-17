@@ -12,4 +12,3 @@ Udover mig selv består min projektgruppe af fire andre medlemmer. Du kan følge
 
 Bøger:
 - Clean Code af Robert C. Martin
-- Building Java Programs - A Back to Basics Approach (Fourth Edition) af Stuart Reges og Marty Stepp
